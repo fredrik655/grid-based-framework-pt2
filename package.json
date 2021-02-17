@@ -1,0 +1,22 @@
+{
+  "name": "grid-based-framework-pt2",
+  "version": "1.0.0",
+  "description": "--- The Odin Project --- assignment Design Your Own Grid-Based Framework, part 2 cloning TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredrik655/grid-based-framework-pt2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredrik655/grid-based-framework-pt2/issues"
+  },
+  "homepage": "https://github.com/fredrik655/grid-based-framework-pt2#readme",
+  "devDependencies": {
+    "sass": "^1.32.7"
+  }
+}
